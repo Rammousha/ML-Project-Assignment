@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547554655617.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A5347E8C",
+    "lastKnownWriteTime" : 31244173386448896,
+    "last_content_update" : 1547554655617,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "7B8230B6",
+        "caption" : "pml_training",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=pml_training&cache_key=7B8230B6",
+        "displayedObservations" : 19622,
+        "environment" : "",
+        "object" : "pml_training",
+        "preview" : 0,
+        "totalObservations" : 19622,
+        "variables" : 160
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

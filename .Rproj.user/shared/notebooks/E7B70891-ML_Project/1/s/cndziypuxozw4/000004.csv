@@ -1,0 +1,7 @@
+"0","#LOAD DATA"
+"0","pml_training_url <- ""http://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv"""
+"0","pml_testing_url <- ""http://d396qusza40orc.cloudfront.net/predmachlearn/pml-testing.csv"""
+"0","#read data and replace the empty/non existing cells with NA"
+"0","pml_training <- read.csv(url(pml_training_url), na.strings=c(""NA"",""#DIV/0!"",""""))"
+"0","pml_testing <- read.csv(url(pml_testing_url), na.strings=c(""NA"",""#DIV/0!"",""""))"
+"0","rm(pml_training_url,pml_testing_url)"

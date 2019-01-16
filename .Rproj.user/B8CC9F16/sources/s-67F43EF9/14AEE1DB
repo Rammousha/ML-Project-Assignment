@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1547552254917.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "14AEE1DB",
+    "lastKnownWriteTime" : 1547634965,
+    "last_content_update" : 1547634965691,
+    "path" : "C:/Users/rdajani/Desktop/machinelearning/ML_Project.Rmd",
+    "project_path" : "ML_Project.Rmd",
+    "properties" : {
+        "cursorPosition" : "239,18",
+        "scrollLine" : "224",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

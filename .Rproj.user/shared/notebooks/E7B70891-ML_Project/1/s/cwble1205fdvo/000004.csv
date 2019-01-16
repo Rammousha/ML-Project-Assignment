@@ -1,0 +1,1 @@
+"0","plot(cmtree$table, col = cmtree$byClass, main = paste(""Decision Tree: Accuracy ="", round(cmtree$overall['Accuracy'], 3)))"

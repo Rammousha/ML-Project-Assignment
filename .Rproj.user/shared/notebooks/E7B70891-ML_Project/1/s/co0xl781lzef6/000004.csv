@@ -1,0 +1,1 @@
+"0","plot(cmrf$table, col = cmtree$byClass, main = paste(""Random Forest: Accuracy ="", round(cmrf$overall['Accuracy'], 3)))"

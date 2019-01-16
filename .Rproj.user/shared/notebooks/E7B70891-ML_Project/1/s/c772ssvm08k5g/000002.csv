@@ -1,0 +1,7 @@
+"0","#  Unifying data structures between my_training, my_testing and pml_testing by converting all integer variable types into numerics (for the commonly existing columns)"
+"0","# To get the same class between testing and mytraining"
+"0","my_testing <- rbind(my_training[2, ] , my_testing)"
+"0","my_testing <- my_testing[-1,]"
+"0","# To get the same class between testing and mytraining"
+"0","pml_testing <- rbind(my_training[2, -58] , pml_testing)"
+"0","pml_testing <- pml_testing[-1,]"
